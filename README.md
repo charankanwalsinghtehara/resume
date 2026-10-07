@@ -12,7 +12,7 @@ Frontend: React, Vite, HTML, CSS
 Backend: Django
 Computer Science: Data Structures & Algorithms, problem solving, algorithmic patterns
 AI: Generative AI fundamentals, Agentic AI fundamentals, machine-learning concepts
-Tools & Technologies: Git, GitHub, npm, Cargo, VS Code
+Tools & Technologies: Git, GitHub, npm, VS Code
 PROJECTS:-.
 E-Commerce Intelligence
 Developed as a data-oriented project focused on extracting useful intelligence from e-commerce information.
